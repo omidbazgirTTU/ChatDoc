@@ -1,15 +1,15 @@
-streamlit 
-embedchain
+streamlit == 1.33.0
+embedchain == 0.1.102
 watchdog
-langchain_community 
-tiktoken 
-angchain-openai 
-langchainhub 
-chromadb 
-langchain
-youtube-transcript-api 
-pytube
-bs4
-PyPDF2
-faiss-cpu
-pdfminer
+langchain_community == 0.0.34
+tiktoken == 0.5.2
+langchain-openai == 0.0.5
+langchainhub == 0.1.15
+chromadb == 0.4.24
+langchain == 0.1.16
+youtube-transcript-api == 0.6.2
+pytube == 15.0.0
+bs4 == 0.0.2
+PyPDF2 == 3.0.1
+faiss-cpu == 1.8.0
+pdfminer == 20191125
